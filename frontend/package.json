@@ -36,7 +36,7 @@
     "leaflet": "^1.9.4",
     "lucide-react": "^0.525.0",
     "marked": "^16.1.1",
-    "mermaid": "^11.9.0",
+    "mermaid": "^11.12.1",
     "prop-types": "^15.8.1",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
